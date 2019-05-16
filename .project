@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>GitProject2</name>
+=======
+	<name>GitProject</name>
+>>>>>>> branch 'master' of https://github.com/ZeroS5A/WH4499.git
 	<comment></comment>
 	<projects>
 	</projects>
